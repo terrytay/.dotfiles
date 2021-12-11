@@ -15,6 +15,7 @@ Plug 'ThePrimeagen/harpoon'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'voldikss/vim-floaterm'
+Plug 'iamcco/markdown-preview.nvim'
 
 
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
